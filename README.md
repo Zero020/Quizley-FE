@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/1aabaf99-c19a-4983-affb-56d522320ae4" alt="" width="29" height="34" /> Quizley-FE 
-하루 한 번 **상상력을 자극하는 질문**으로 생각하는 힘을 길러주는 서비스, Quizley의 React + TypeScript + Vite 기반 프론트엔드 레포지토리입니다.
+하루 한 번 상상력을 자극하는 질문으로 **생각하는 힘을 길러주는** 서비스, Quizley의 React + TypeScript + Vite 기반 프론트엔드 레포지토리입니다.
 <img width="1920" height="1080" alt="" src="https://github.com/user-attachments/assets/26797c13-f8f4-4881-88a3-f80fd3a05902" />
 
 <br>
@@ -19,7 +19,7 @@
 <br>
 
 ## About Quizley
-현대 사회에서 AI 도구 사용이 늘어나면서 정답을 빠르게 얻는 데 익숙해지고 스스로 사고하는 습관이 약화되고 있어 이를 극복하고자, **하루에 한 번씩 상상력을 자극할 수 있는 질문들에 대답해 보며 스스로 생각하는 힘을 기를 수 있도록 도와주는 서비스**를 만들었습니다.
+현대 사회에서 **AI 도구 사용이 늘어나면서 정답을 빠르게 얻는 데 익숙해지고 스스로 사고하는 습관**이 약화되고 있어 이를 극복하고자, 하루에 한 번씩 상상력을 자극할 수 있는 질문들에 대답해 보며 스스로 생각하는 힘을 기를 수 있도록 도와주는 서비스를 만들었습니다.
 
 <br>
 
@@ -86,8 +86,8 @@ Quizley
 <br>
 
 ##  Tech Stack 🛠️
-- React · TypeScript · Vite
-- Tailwind CSS
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
 <br>
 
@@ -127,6 +127,7 @@ Quizley
 | perf     | 성능 개선     |
 | merge    | 브랜치 병합    |
 | conflict | 충돌 해결     |
+
 `feat: 마이페이지 기본 UI 구현`
 
 ### 4. Push
@@ -178,9 +179,9 @@ Quizley
 <br>
 
 ## Team 👊
-- planning & Design | 최서연, 류사랑
-- Backend | 김민서, 장혜리, 송유리
-- Frontend
+- **Planning & Design |** 최서연, 류사랑
+- **Backend |** 김민서, 장혜리, 송유리
+- **Frontend**
   - 김시원: 홈화면
   - 손예원: 로그인/회원가입, 마이페이지, 기록
   - 최영: 커뮤니티
